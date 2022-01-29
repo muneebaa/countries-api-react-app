@@ -50,7 +50,7 @@ Users should be able to:
 - React Context API
 
 ### What I learned
-I learened :
+I learned :
 - how to fetch API and display its contents.
 - how to use the hook use useParams hook.
 - how to change theme from light to dark and vice versa.
